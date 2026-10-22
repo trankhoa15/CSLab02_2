@@ -1,0 +1,15 @@
+/CSLab02_2_Baitap1/.vs
+/CSLab02_2_Baitap1/bin
+/CSLab02_2_Baitap1/obj
+/CSLab02_2_Baitap2/.vs
+/CSLab02_2_Baitap2/bin
+/CSLab02_2_Baitap2/obj
+/CSLab02_2_Baitap3HCN/.vs
+/CSLab02_2_Baitap3HCN/bin
+/CSLab02_2_Baitap3HCN/obj
+/CSLab02_2_Baitap3SV/.vs
+/CSLab02_2_Baitap3SV/bin
+/CSLab02_2_Baitap3SV/obj
+/CSLab02_2_Baitap3SP/.vs
+/CSLab02_2_Baitap3SP/bin
+/CSLab02_2_Baitap3SP/obj
